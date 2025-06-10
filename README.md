@@ -49,7 +49,7 @@ Manter o código arrumadinho, fácil de entender e seguindo os princípios da PO
 <p style="text-align: justify;">🧙‍♂️Quer ver essa mágica Acontecer?🧙‍♂️
 Pra dar uma espiada em como tudo isso funciona na prática:</p>
 
-<p style="text-align: justify;">Primeiro, confere se você tem o SDK do .NET instalado na sua máquina (é tipo o kit de ferramentas pra rodar códigos C#).
+<p style="text-align: justify;">1️⃣Primeiro, confere se você tem o SDK do .NET instalado na sua máquina (é tipo o kit de ferramentas pra rodar códigos C#).
   
 Abre o terminal na pasta do projeto e digita dotnet build. Isso vai "preparar" o código.
 

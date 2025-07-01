@@ -60,3 +60,5 @@ Você vai ver no console como a gente cria um iPhone e um Nokia e como eles faze
 
 
 ![Static Badge](https://img.shields.io/badge/Status--black?label=Em%20Desenvolvimento&color=green)
+
+***PROJETO FAZ PARTE DE UMA PROPOSTA DE DESAFIO DA DIO! REPOSITÓRIO OFICIAL >> https://github.com/digitalinnovationone/trilha-net-poo-desafio <<
